@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-01T21:21:41Z",
+  "generated_at_utc": "2026-03-01T21:45:11Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -224,16 +224,45 @@
     {
       "symbol": "HG=F",
       "name": "Copper",
-      "price": null,
-      "close_d1": null,
-      "change_pts": null,
-      "change_pct": null,
-      "daily_7d": [],
-      "vol_annual": null,
-      "vol_semiannual": null,
-      "vol_quarterly": null,
-      "vol_monthly": null,
-      "vol_weekly": null
+      "price": 6.0595,
+      "close_d1": 5.947,
+      "change_pts": 0.1125,
+      "change_pct": 0.01891713,
+      "daily_7d": [
+        {
+          "date": "2026-02-19",
+          "close": 5.73
+        },
+        {
+          "date": "2026-02-20",
+          "close": 5.831
+        },
+        {
+          "date": "2026-02-23",
+          "close": 5.773
+        },
+        {
+          "date": "2026-02-24",
+          "close": 5.923
+        },
+        {
+          "date": "2026-02-25",
+          "close": 5.9795
+        },
+        {
+          "date": "2026-02-26",
+          "close": 5.947
+        },
+        {
+          "date": "2026-02-27",
+          "close": 6.0595
+        }
+      ],
+      "vol_annual": 0.37358427,
+      "vol_semiannual": 0.30448553,
+      "vol_quarterly": 0.3557695,
+      "vol_monthly": 0.40039614,
+      "vol_weekly": 0.24250217
     },
     {
       "symbol": "ZS=F",
