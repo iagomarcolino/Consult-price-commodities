@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-03T06:45:06Z",
+  "generated_at_utc": "2026-04-03T07:49:57Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -138,16 +138,45 @@
     {
       "symbol": "GC=F",
       "name": "Gold",
-      "price": null,
-      "close_d1": null,
-      "change_pts": null,
-      "change_pct": null,
-      "daily_7d": [],
-      "vol_annual": null,
-      "vol_semiannual": null,
-      "vol_quarterly": null,
-      "vol_monthly": null,
-      "vol_weekly": null
+      "price": 4651.5,
+      "close_d1": 4783.200195,
+      "change_pts": -131.700195,
+      "change_pct": -0.02753391,
+      "daily_7d": [
+        {
+          "date": "2026-03-25",
+          "close": 4549.799805
+        },
+        {
+          "date": "2026-03-26",
+          "close": 4375.5
+        },
+        {
+          "date": "2026-03-27",
+          "close": 4492.0
+        },
+        {
+          "date": "2026-03-30",
+          "close": 4526.0
+        },
+        {
+          "date": "2026-03-31",
+          "close": 4647.600098
+        },
+        {
+          "date": "2026-04-01",
+          "close": 4783.200195
+        },
+        {
+          "date": "2026-04-02",
+          "close": 4651.5
+        }
+      ],
+      "vol_annual": 0.25920932,
+      "vol_semiannual": 0.34784484,
+      "vol_quarterly": 0.42281577,
+      "vol_monthly": 0.39923511,
+      "vol_weekly": 0.38136294
     },
     {
       "symbol": "SI=F",
