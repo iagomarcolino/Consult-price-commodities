@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-11T15:17:43Z",
+  "generated_at_utc": "2026-04-11T15:55:25Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -439,45 +439,16 @@
     {
       "symbol": "SB=F",
       "name": "Sugar",
-      "price": 13.75,
-      "close_d1": 13.92,
-      "change_pts": -0.17,
-      "change_pct": -0.01221265,
-      "daily_7d": [
-        {
-          "date": "2026-04-01",
-          "close": 15.29
-        },
-        {
-          "date": "2026-04-02",
-          "close": 15.0
-        },
-        {
-          "date": "2026-04-06",
-          "close": 14.97
-        },
-        {
-          "date": "2026-04-07",
-          "close": 14.58
-        },
-        {
-          "date": "2026-04-08",
-          "close": 14.23
-        },
-        {
-          "date": "2026-04-09",
-          "close": 13.92
-        },
-        {
-          "date": "2026-04-10",
-          "close": 13.75
-        }
-      ],
-      "vol_annual": 0.24598958,
-      "vol_semiannual": 0.24719968,
-      "vol_quarterly": 0.25785797,
-      "vol_monthly": 0.30175498,
-      "vol_weekly": 0.16133772
+      "price": null,
+      "close_d1": null,
+      "change_pts": null,
+      "change_pct": null,
+      "daily_7d": [],
+      "vol_annual": null,
+      "vol_semiannual": null,
+      "vol_quarterly": null,
+      "vol_monthly": null,
+      "vol_weekly": null
     }
   ]
 }
