@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-18T17:21:58Z",
+  "generated_at_utc": "2026-04-18T18:01:01Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -396,45 +396,16 @@
     {
       "symbol": "KC=F",
       "name": "Coffee",
-      "price": 289.299988,
-      "close_d1": 296.450012,
-      "change_pts": -7.150024,
-      "change_pct": -0.02411882,
-      "daily_7d": [
-        {
-          "date": "2026-04-09",
-          "close": 293.700012
-        },
-        {
-          "date": "2026-04-10",
-          "close": 300.100006
-        },
-        {
-          "date": "2026-04-13",
-          "close": 300.850006
-        },
-        {
-          "date": "2026-04-14",
-          "close": 302.649994
-        },
-        {
-          "date": "2026-04-15",
-          "close": 304.25
-        },
-        {
-          "date": "2026-04-16",
-          "close": 296.450012
-        },
-        {
-          "date": "2026-04-17",
-          "close": 289.299988
-        }
-      ],
-      "vol_annual": 0.36734783,
-      "vol_semiannual": 0.33094581,
-      "vol_quarterly": 0.33012762,
-      "vol_monthly": 0.33071295,
-      "vol_weekly": 0.25981766
+      "price": null,
+      "close_d1": null,
+      "change_pts": null,
+      "change_pct": null,
+      "daily_7d": [],
+      "vol_annual": null,
+      "vol_semiannual": null,
+      "vol_quarterly": null,
+      "vol_monthly": null,
+      "vol_weekly": null
     },
     {
       "symbol": "SB=F",
