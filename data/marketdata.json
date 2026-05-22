@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-22T22:06:16Z",
+  "generated_at_utc": "2026-05-22T23:18:39Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -95,16 +95,45 @@
     {
       "symbol": "NG=F",
       "name": "Natural Gas",
-      "price": null,
-      "close_d1": null,
-      "change_pts": null,
-      "change_pct": null,
-      "daily_7d": [],
-      "vol_annual": null,
-      "vol_semiannual": null,
-      "vol_quarterly": null,
-      "vol_monthly": null,
-      "vol_weekly": null
+      "price": 3.034,
+      "close_d1": 3.018,
+      "change_pts": 0.016,
+      "change_pct": 0.00530154,
+      "daily_7d": [
+        {
+          "date": "2026-05-14",
+          "close": 2.894
+        },
+        {
+          "date": "2026-05-15",
+          "close": 2.96
+        },
+        {
+          "date": "2026-05-18",
+          "close": 3.024
+        },
+        {
+          "date": "2026-05-19",
+          "close": 3.114
+        },
+        {
+          "date": "2026-05-20",
+          "close": 3.004
+        },
+        {
+          "date": "2026-05-21",
+          "close": 3.018
+        },
+        {
+          "date": "2026-05-22",
+          "close": 3.034
+        }
+      ],
+      "vol_annual": 0.96276882,
+      "vol_semiannual": 1.32213503,
+      "vol_quarterly": 0.46179823,
+      "vol_monthly": 0.39905933,
+      "vol_weekly": 0.39992187
     },
     {
       "symbol": "GC=F",
