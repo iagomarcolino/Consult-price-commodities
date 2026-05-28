@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-28T20:20:41Z",
+  "generated_at_utc": "2026-05-28T22:16:23Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -9,10 +9,10 @@
     {
       "symbol": "CL=F",
       "name": "Crude Oil WTI",
-      "price": 89.449997,
+      "price": 88.470001,
       "close_d1": 88.68,
-      "change_pts": 0.769997,
-      "change_pct": 0.00868287,
+      "change_pts": -0.209999,
+      "change_pct": -0.00236805,
       "daily_7d": [
         {
           "date": "2026-05-19",
@@ -40,22 +40,22 @@
         },
         {
           "date": "2026-05-28",
-          "close": 89.449997
+          "close": 88.470001
         }
       ],
-      "vol_annual": 0.48066051,
-      "vol_semiannual": 0.65374684,
-      "vol_quarterly": 0.87738697,
-      "vol_monthly": 0.63749347,
-      "vol_weekly": 0.41780635
+      "vol_annual": 0.48061732,
+      "vol_semiannual": 0.65375171,
+      "vol_quarterly": 0.87747843,
+      "vol_monthly": 0.63560175,
+      "vol_weekly": 0.37762479
     },
     {
       "symbol": "BZ=F",
       "name": "Crude Oil Brent",
-      "price": 93.239998,
+      "price": 92.209999,
       "close_d1": 94.290001,
-      "change_pts": -1.050003,
-      "change_pct": -0.01113589,
+      "change_pts": -2.080002,
+      "change_pct": -0.02205962,
       "daily_7d": [
         {
           "date": "2026-05-19",
@@ -83,22 +83,22 @@
         },
         {
           "date": "2026-05-28",
-          "close": 93.239998
+          "close": 92.209999
         }
       ],
-      "vol_annual": 0.45947714,
-      "vol_semiannual": 0.63527351,
-      "vol_quarterly": 0.84948645,
-      "vol_monthly": 0.61986719,
-      "vol_weekly": 0.39160681
+      "vol_annual": 0.45980046,
+      "vol_semiannual": 0.63597017,
+      "vol_quarterly": 0.85060428,
+      "vol_monthly": 0.6216876,
+      "vol_weekly": 0.37675516
     },
     {
       "symbol": "NG=F",
       "name": "Natural Gas",
-      "price": 3.296,
+      "price": 3.294,
       "close_d1": 3.04,
-      "change_pts": 0.256,
-      "change_pct": 0.08421054,
+      "change_pts": 0.254,
+      "change_pct": 0.08355262,
       "daily_7d": [
         {
           "date": "2026-05-19",
@@ -126,22 +126,22 @@
         },
         {
           "date": "2026-05-28",
-          "close": 3.296
+          "close": 3.294
         }
       ],
-      "vol_annual": 0.96241705,
-      "vol_semiannual": 1.32970467,
-      "vol_quarterly": 0.49033176,
-      "vol_monthly": 0.49720718,
-      "vol_weekly": 0.73966965
+      "vol_annual": 0.96237798,
+      "vol_semiannual": 1.32962819,
+      "vol_quarterly": 0.48993854,
+      "vol_monthly": 0.49615219,
+      "vol_weekly": 0.7364543
     },
     {
       "symbol": "GC=F",
       "name": "Gold",
-      "price": 4527.0,
+      "price": 4527.100098,
       "close_d1": 4447.5,
-      "change_pts": 79.5,
-      "change_pct": 0.01787521,
+      "change_pts": 79.600098,
+      "change_pct": 0.01789772,
       "daily_7d": [
         {
           "date": "2026-05-19",
@@ -169,22 +169,22 @@
         },
         {
           "date": "2026-05-28",
-          "close": 4527.0
+          "close": 4527.100098
         }
       ],
-      "vol_annual": 0.26301824,
-      "vol_semiannual": 0.32842105,
-      "vol_quarterly": 0.28377054,
-      "vol_monthly": 0.20094393,
-      "vol_weekly": 0.17661461
+      "vol_annual": 0.2630193,
+      "vol_semiannual": 0.32842335,
+      "vol_quarterly": 0.28377682,
+      "vol_monthly": 0.20096944,
+      "vol_weekly": 0.17675586
     },
     {
       "symbol": "SI=F",
       "name": "Silver",
-      "price": 75.849998,
+      "price": 76.050003,
       "close_d1": 74.598999,
-      "change_pts": 1.250999,
-      "change_pct": 0.01676965,
+      "change_pts": 1.451004,
+      "change_pct": 0.01945072,
       "daily_7d": [
         {
           "date": "2026-05-19",
@@ -212,22 +212,22 @@
         },
         {
           "date": "2026-05-28",
-          "close": 75.849998
+          "close": 76.050003
         }
       ],
-      "vol_annual": 0.59969912,
-      "vol_semiannual": 0.88500656,
-      "vol_quarterly": 0.56463154,
-      "vol_monthly": 0.57774731,
-      "vol_weekly": 0.24057303
+      "vol_annual": 0.59975107,
+      "vol_semiannual": 0.8850946,
+      "vol_quarterly": 0.56501249,
+      "vol_monthly": 0.57867662,
+      "vol_weekly": 0.2524755
     },
     {
       "symbol": "HG=F",
       "name": "Copper",
-      "price": 6.419,
+      "price": 6.4215,
       "close_d1": 6.305,
-      "change_pts": 0.114,
-      "change_pct": 0.01808094,
+      "change_pts": 0.1165,
+      "change_pct": 0.01847746,
       "daily_7d": [
         {
           "date": "2026-05-19",
@@ -255,14 +255,14 @@
         },
         {
           "date": "2026-05-28",
-          "close": 6.419
+          "close": 6.4215
         }
       ],
-      "vol_annual": 0.38080329,
-      "vol_semiannual": 0.31129213,
-      "vol_quarterly": 0.2633818,
-      "vol_monthly": 0.30892416,
-      "vol_weekly": 0.18393999
+      "vol_annual": 0.38081664,
+      "vol_semiannual": 0.31133265,
+      "vol_quarterly": 0.26348333,
+      "vol_monthly": 0.30914972,
+      "vol_weekly": 0.18580188
     },
     {
       "symbol": "ZS=F",
