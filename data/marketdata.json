@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-26T22:35:31Z",
+  "generated_at_utc": "2026-06-26T23:46:18Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -267,45 +267,16 @@
     {
       "symbol": "ZS=F",
       "name": "Soybeans",
-      "price": 1155.0,
-      "close_d1": 1127.5,
-      "change_pts": 27.5,
-      "change_pct": 0.02439024,
-      "daily_7d": [
-        {
-          "date": "2026-06-17",
-          "close": 1132.0
-        },
-        {
-          "date": "2026-06-18",
-          "close": 1122.75
-        },
-        {
-          "date": "2026-06-22",
-          "close": 1115.75
-        },
-        {
-          "date": "2026-06-23",
-          "close": 1117.0
-        },
-        {
-          "date": "2026-06-24",
-          "close": 1108.75
-        },
-        {
-          "date": "2026-06-25",
-          "close": 1127.5
-        },
-        {
-          "date": "2026-06-26",
-          "close": 1155.0
-        }
-      ],
-      "vol_annual": 0.16009353,
-      "vol_semiannual": 0.16338221,
-      "vol_quarterly": 0.16168789,
-      "vol_monthly": 0.16546745,
-      "vol_weekly": 0.22405535
+      "price": null,
+      "close_d1": null,
+      "change_pts": null,
+      "change_pct": null,
+      "daily_7d": [],
+      "vol_annual": null,
+      "vol_semiannual": null,
+      "vol_quarterly": null,
+      "vol_monthly": null,
+      "vol_weekly": null
     },
     {
       "symbol": "ZC=F",
