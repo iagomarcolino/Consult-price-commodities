@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-12T00:10:27Z",
+  "generated_at_utc": "2026-07-12T03:56:27Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -9,45 +9,16 @@
     {
       "symbol": "CL=F",
       "name": "Crude Oil WTI",
-      "price": 71.410004,
-      "close_d1": 72.080002,
-      "change_pts": -0.669998,
-      "change_pct": -0.0092952,
-      "daily_7d": [
-        {
-          "date": "2026-07-01",
-          "close": 68.580002
-        },
-        {
-          "date": "2026-07-02",
-          "close": 68.690002
-        },
-        {
-          "date": "2026-07-06",
-          "close": 68.550003
-        },
-        {
-          "date": "2026-07-07",
-          "close": 70.440002
-        },
-        {
-          "date": "2026-07-08",
-          "close": 73.519997
-        },
-        {
-          "date": "2026-07-09",
-          "close": 72.080002
-        },
-        {
-          "date": "2026-07-10",
-          "close": 71.410004
-        }
-      ],
-      "vol_annual": 0.49446944,
-      "vol_semiannual": 0.68227191,
-      "vol_quarterly": 0.5947725,
-      "vol_monthly": 0.43234232,
-      "vol_weekly": 0.4164044
+      "price": null,
+      "close_d1": null,
+      "change_pts": null,
+      "change_pct": null,
+      "daily_7d": [],
+      "vol_annual": null,
+      "vol_semiannual": null,
+      "vol_quarterly": null,
+      "vol_monthly": null,
+      "vol_weekly": null
     },
     {
       "symbol": "BZ=F",
