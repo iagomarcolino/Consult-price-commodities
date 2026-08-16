@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T11:59:26Z",
+  "generated_at_utc": "2026-08-16T12:53:47Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -310,45 +310,16 @@
     {
       "symbol": "ZC=F",
       "name": "Corn",
-      "price": 483.25,
-      "close_d1": 448.0,
-      "change_pts": 35.25,
-      "change_pct": 0.07868304,
-      "daily_7d": [
-        {
-          "date": "2026-08-06",
-          "close": 439.0
-        },
-        {
-          "date": "2026-08-07",
-          "close": 439.0
-        },
-        {
-          "date": "2026-08-10",
-          "close": 438.25
-        },
-        {
-          "date": "2026-08-11",
-          "close": 436.75
-        },
-        {
-          "date": "2026-08-12",
-          "close": 457.0
-        },
-        {
-          "date": "2026-08-13",
-          "close": 448.0
-        },
-        {
-          "date": "2026-08-14",
-          "close": 483.25
-        }
-      ],
-      "vol_annual": 0.21667458,
-      "vol_semiannual": 0.24571326,
-      "vol_quarterly": 0.30306017,
-      "vol_monthly": 0.36951697,
-      "vol_weekly": 0.63282217
+      "price": null,
+      "close_d1": null,
+      "change_pts": null,
+      "change_pct": null,
+      "daily_7d": [],
+      "vol_annual": null,
+      "vol_semiannual": null,
+      "vol_quarterly": null,
+      "vol_monthly": null,
+      "vol_weekly": null
     },
     {
       "symbol": "ZW=F",
