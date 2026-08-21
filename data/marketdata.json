@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21T21:48:25Z",
+  "generated_at_utc": "2026-08-21T22:21:31Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -95,45 +95,16 @@
     {
       "symbol": "NG=F",
       "name": "Natural Gas",
-      "price": 2.798,
-      "close_d1": 2.733,
-      "change_pts": 0.065,
-      "change_pct": 0.02378341,
-      "daily_7d": [
-        {
-          "date": "2026-08-13",
-          "close": 2.727
-        },
-        {
-          "date": "2026-08-14",
-          "close": 2.733
-        },
-        {
-          "date": "2026-08-17",
-          "close": 2.69
-        },
-        {
-          "date": "2026-08-18",
-          "close": 2.776
-        },
-        {
-          "date": "2026-08-19",
-          "close": 2.814
-        },
-        {
-          "date": "2026-08-20",
-          "close": 2.733
-        },
-        {
-          "date": "2026-08-21",
-          "close": 2.798
-        }
-      ],
-      "vol_annual": 0.93322237,
-      "vol_semiannual": 0.43925672,
-      "vol_quarterly": 0.41712227,
-      "vol_monthly": 0.38584681,
-      "vol_weekly": 0.41408839
+      "price": null,
+      "close_d1": null,
+      "change_pts": null,
+      "change_pct": null,
+      "daily_7d": [],
+      "vol_annual": null,
+      "vol_semiannual": null,
+      "vol_quarterly": null,
+      "vol_monthly": null,
+      "vol_weekly": null
     },
     {
       "symbol": "GC=F",
@@ -224,16 +195,45 @@
     {
       "symbol": "HG=F",
       "name": "Copper",
-      "price": null,
-      "close_d1": null,
-      "change_pts": null,
-      "change_pct": null,
-      "daily_7d": [],
-      "vol_annual": null,
-      "vol_semiannual": null,
-      "vol_quarterly": null,
-      "vol_monthly": null,
-      "vol_weekly": null
+      "price": 6.58,
+      "close_d1": 6.46,
+      "change_pts": 0.12,
+      "change_pct": 0.01857583,
+      "daily_7d": [
+        {
+          "date": "2026-08-13",
+          "close": 6.5925
+        },
+        {
+          "date": "2026-08-14",
+          "close": 6.5995
+        },
+        {
+          "date": "2026-08-17",
+          "close": 6.604
+        },
+        {
+          "date": "2026-08-18",
+          "close": 6.4825
+        },
+        {
+          "date": "2026-08-19",
+          "close": 6.4875
+        },
+        {
+          "date": "2026-08-20",
+          "close": 6.46
+        },
+        {
+          "date": "2026-08-21",
+          "close": 6.58
+        }
+      ],
+      "vol_annual": 0.36149295,
+      "vol_semiannual": 0.2518079,
+      "vol_quarterly": 0.23922829,
+      "vol_monthly": 0.17108612,
+      "vol_weekly": 0.21013953
     },
     {
       "symbol": "ZS=F",
