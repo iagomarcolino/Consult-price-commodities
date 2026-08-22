@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22T23:26:04Z",
+  "generated_at_utc": "2026-08-22T23:45:31Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -181,16 +181,45 @@
     {
       "symbol": "SI=F",
       "name": "Silver",
-      "price": null,
-      "close_d1": null,
-      "change_pts": null,
-      "change_pct": null,
-      "daily_7d": [],
-      "vol_annual": null,
-      "vol_semiannual": null,
-      "vol_quarterly": null,
-      "vol_monthly": null,
-      "vol_weekly": null
+      "price": 69.466003,
+      "close_d1": 68.026001,
+      "change_pts": 1.440002,
+      "change_pct": 0.02116841,
+      "daily_7d": [
+        {
+          "date": "2026-08-13",
+          "close": 64.873001
+        },
+        {
+          "date": "2026-08-14",
+          "close": 64.987999
+        },
+        {
+          "date": "2026-08-17",
+          "close": 66.121002
+        },
+        {
+          "date": "2026-08-18",
+          "close": 63.941002
+        },
+        {
+          "date": "2026-08-19",
+          "close": 65.734001
+        },
+        {
+          "date": "2026-08-20",
+          "close": 68.026001
+        },
+        {
+          "date": "2026-08-21",
+          "close": 69.466003
+        }
+      ],
+      "vol_annual": 0.61273181,
+      "vol_semiannual": 0.51404312,
+      "vol_quarterly": 0.43779851,
+      "vol_monthly": 0.32702921,
+      "vol_weekly": 0.42838862
     },
     {
       "symbol": "HG=F",
