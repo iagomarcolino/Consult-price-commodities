@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T02:37:06Z",
+  "generated_at_utc": "2026-08-23T03:35:16Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -52,45 +52,16 @@
     {
       "symbol": "BZ=F",
       "name": "Crude Oil Brent",
-      "price": 94.389999,
-      "close_d1": 93.779999,
-      "change_pts": 0.610001,
-      "change_pct": 0.00650459,
-      "daily_7d": [
-        {
-          "date": "2026-08-13",
-          "close": 87.07
-        },
-        {
-          "date": "2026-08-14",
-          "close": 88.519997
-        },
-        {
-          "date": "2026-08-17",
-          "close": 90.870003
-        },
-        {
-          "date": "2026-08-18",
-          "close": 91.019997
-        },
-        {
-          "date": "2026-08-19",
-          "close": 91.620003
-        },
-        {
-          "date": "2026-08-20",
-          "close": 93.779999
-        },
-        {
-          "date": "2026-08-21",
-          "close": 94.389999
-        }
-      ],
-      "vol_annual": 0.49725485,
-      "vol_semiannual": 0.70934078,
-      "vol_quarterly": 0.55546862,
-      "vol_monthly": 0.64349632,
-      "vol_weekly": 0.17622254
+      "price": null,
+      "close_d1": null,
+      "change_pts": null,
+      "change_pct": null,
+      "daily_7d": [],
+      "vol_annual": null,
+      "vol_semiannual": null,
+      "vol_quarterly": null,
+      "vol_monthly": null,
+      "vol_weekly": null
     },
     {
       "symbol": "NG=F",
