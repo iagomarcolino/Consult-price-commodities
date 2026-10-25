@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-25T17:23:59Z",
+  "generated_at_utc": "2026-10-25T19:51:23Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -181,16 +181,45 @@
     {
       "symbol": "SI=F",
       "name": "Silver",
-      "price": null,
-      "close_d1": null,
-      "change_pts": null,
-      "change_pct": null,
-      "daily_7d": [],
-      "vol_annual": null,
-      "vol_semiannual": null,
-      "vol_quarterly": null,
-      "vol_monthly": null,
-      "vol_weekly": null
+      "price": 53.949001,
+      "close_d1": 54.764,
+      "change_pts": -0.814999,
+      "change_pct": -0.01488201,
+      "daily_7d": [
+        {
+          "date": "2026-10-15",
+          "close": 56.837002
+        },
+        {
+          "date": "2026-10-16",
+          "close": 56.994999
+        },
+        {
+          "date": "2026-10-19",
+          "close": 56.973999
+        },
+        {
+          "date": "2026-10-20",
+          "close": 57.706001
+        },
+        {
+          "date": "2026-10-21",
+          "close": 57.422001
+        },
+        {
+          "date": "2026-10-22",
+          "close": 54.764
+        },
+        {
+          "date": "2026-10-23",
+          "close": 53.949001
+        }
+      ],
+      "vol_annual": 0.62032678,
+      "vol_semiannual": 0.43716737,
+      "vol_quarterly": 0.35848496,
+      "vol_monthly": 0.36817666,
+      "vol_weekly": 0.35982712
     },
     {
       "symbol": "HG=F",
@@ -367,10 +396,10 @@
     {
       "symbol": "KC=F",
       "name": "Coffee",
-      "price": 307.450012,
+      "price": 306.0,
       "close_d1": 312.450012,
-      "change_pts": -5.0,
-      "change_pct": -0.01600256,
+      "change_pts": -6.450012,
+      "change_pct": -0.02064334,
       "daily_7d": [
         {
           "date": "2026-10-15",
@@ -398,14 +427,14 @@
         },
         {
           "date": "2026-10-23",
-          "close": 307.450012
+          "close": 306.0
         }
       ],
-      "vol_annual": 0.41228128,
-      "vol_semiannual": 0.46341684,
-      "vol_quarterly": 0.38698233,
-      "vol_monthly": 0.32348922,
-      "vol_weekly": 0.3445889
+      "vol_annual": 0.41244494,
+      "vol_semiannual": 0.46379543,
+      "vol_quarterly": 0.38785518,
+      "vol_monthly": 0.32781217,
+      "vol_weekly": 0.36082676
     },
     {
       "symbol": "SB=F",
