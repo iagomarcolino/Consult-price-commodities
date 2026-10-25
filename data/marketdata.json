@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-25T19:51:23Z",
+  "generated_at_utc": "2026-10-25T22:17:31Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -10,14 +10,10 @@
       "symbol": "CL=F",
       "name": "Crude Oil WTI",
       "price": 103.269997,
-      "close_d1": 99.470001,
-      "change_pts": 3.799995,
-      "change_pct": 0.03820243,
+      "close_d1": 103.269997,
+      "change_pts": 0.0,
+      "change_pct": 0.0,
       "daily_7d": [
-        {
-          "date": "2026-10-15",
-          "close": 97.970001
-        },
         {
           "date": "2026-10-16",
           "close": 101.410004
@@ -41,26 +37,26 @@
         {
           "date": "2026-10-23",
           "close": 103.269997
+        },
+        {
+          "date": "2026-10-25",
+          "close": 103.269997
         }
       ],
-      "vol_annual": 0.50650555,
-      "vol_semiannual": 0.51014073,
-      "vol_quarterly": 0.44105946,
-      "vol_monthly": 0.38941047,
-      "vol_weekly": 0.55482307
+      "vol_annual": 0.50573883,
+      "vol_semiannual": 0.5093487,
+      "vol_quarterly": 0.43158441,
+      "vol_monthly": 0.37664395,
+      "vol_weekly": 0.53054048
     },
     {
       "symbol": "BZ=F",
       "name": "Crude Oil Brent",
       "price": 111.699997,
-      "close_d1": 113.169998,
-      "change_pts": -1.470001,
-      "change_pct": -0.01298932,
+      "close_d1": 116.720001,
+      "change_pts": -5.020004,
+      "change_pct": -0.04300895,
       "daily_7d": [
-        {
-          "date": "2026-10-15",
-          "close": 105.919998
-        },
         {
           "date": "2026-10-16",
           "close": 109.860001
@@ -83,27 +79,27 @@
         },
         {
           "date": "2026-10-23",
+          "close": 116.720001
+        },
+        {
+          "date": "2026-10-25",
           "close": 111.699997
         }
       ],
-      "vol_annual": 0.49532684,
-      "vol_semiannual": 0.50887948,
-      "vol_quarterly": 0.43251668,
-      "vol_monthly": 0.29406578,
-      "vol_weekly": 0.32808923
+      "vol_annual": 0.49666951,
+      "vol_semiannual": 0.51282075,
+      "vol_quarterly": 0.43183356,
+      "vol_monthly": 0.33661419,
+      "vol_weekly": 0.52625259
     },
     {
       "symbol": "NG=F",
       "name": "Natural Gas",
       "price": 3.05,
-      "close_d1": 2.796,
-      "change_pts": 0.254,
-      "change_pct": 0.09084404,
+      "close_d1": 2.64,
+      "change_pts": 0.41,
+      "change_pct": 0.15530297,
       "daily_7d": [
-        {
-          "date": "2026-10-15",
-          "close": 3.236
-        },
         {
           "date": "2026-10-16",
           "close": 3.116
@@ -126,27 +122,27 @@
         },
         {
           "date": "2026-10-23",
+          "close": 2.64
+        },
+        {
+          "date": "2026-10-25",
           "close": 3.05
         }
       ],
-      "vol_annual": 0.91080306,
-      "vol_semiannual": 0.43495092,
-      "vol_quarterly": 0.4460857,
-      "vol_monthly": 0.54423108,
-      "vol_weekly": 0.88534557
+      "vol_annual": 0.916355,
+      "vol_semiannual": 0.4716289,
+      "vol_quarterly": 0.50960781,
+      "vol_monthly": 0.70368619,
+      "vol_weekly": 1.34594595
     },
     {
       "symbol": "GC=F",
       "name": "Gold",
       "price": 4007.899902,
-      "close_d1": 4060.399902,
-      "change_pts": -52.5,
-      "change_pct": -0.01292976,
+      "close_d1": 4007.899902,
+      "change_pts": 0.0,
+      "change_pct": 0.0,
       "daily_7d": [
-        {
-          "date": "2026-10-15",
-          "close": 4170.100098
-        },
         {
           "date": "2026-10-16",
           "close": 4181.100098
@@ -170,26 +166,26 @@
         {
           "date": "2026-10-23",
           "close": 4007.899902
+        },
+        {
+          "date": "2026-10-25",
+          "close": 4007.899902
         }
       ],
-      "vol_annual": 0.26599294,
-      "vol_semiannual": 0.22626203,
-      "vol_quarterly": 0.20779178,
-      "vol_monthly": 0.18968859,
-      "vol_weekly": 0.14508277
+      "vol_annual": 0.26559005,
+      "vol_semiannual": 0.22593108,
+      "vol_quarterly": 0.20695507,
+      "vol_monthly": 0.18747738,
+      "vol_weekly": 0.15652646
     },
     {
       "symbol": "SI=F",
       "name": "Silver",
       "price": 53.949001,
-      "close_d1": 54.764,
-      "change_pts": -0.814999,
-      "change_pct": -0.01488201,
+      "close_d1": 53.710999,
+      "change_pts": 0.238003,
+      "change_pct": 0.00443117,
       "daily_7d": [
-        {
-          "date": "2026-10-15",
-          "close": 56.837002
-        },
         {
           "date": "2026-10-16",
           "close": 56.994999
@@ -212,27 +208,27 @@
         },
         {
           "date": "2026-10-23",
+          "close": 53.710999
+        },
+        {
+          "date": "2026-10-25",
           "close": 53.949001
         }
       ],
-      "vol_annual": 0.62032678,
-      "vol_semiannual": 0.43716737,
-      "vol_quarterly": 0.35848496,
-      "vol_monthly": 0.36817666,
-      "vol_weekly": 0.35982712
+      "vol_annual": 0.61949283,
+      "vol_semiannual": 0.4370227,
+      "vol_quarterly": 0.35737366,
+      "vol_monthly": 0.36510658,
+      "vol_weekly": 0.37522191
     },
     {
       "symbol": "HG=F",
       "name": "Copper",
       "price": 6.5075,
-      "close_d1": 6.3625,
-      "change_pts": 0.145,
-      "change_pct": 0.02278978,
+      "close_d1": 6.476,
+      "change_pts": 0.0315,
+      "change_pct": 0.00486417,
       "daily_7d": [
-        {
-          "date": "2026-10-15",
-          "close": 6.5115
-        },
         {
           "date": "2026-10-16",
           "close": 6.531
@@ -255,14 +251,18 @@
         },
         {
           "date": "2026-10-23",
+          "close": 6.476
+        },
+        {
+          "date": "2026-10-25",
           "close": 6.5075
         }
       ],
-      "vol_annual": 0.36080773,
-      "vol_semiannual": 0.24732951,
-      "vol_quarterly": 0.21192224,
-      "vol_monthly": 0.19269001,
-      "vol_weekly": 0.2884478
+      "vol_annual": 0.3600793,
+      "vol_semiannual": 0.24662116,
+      "vol_quarterly": 0.21017782,
+      "vol_monthly": 0.18693158,
+      "vol_weekly": 0.26871464
     },
     {
       "symbol": "ZS=F",
@@ -302,10 +302,10 @@
         }
       ],
       "vol_annual": 0.16748261,
-      "vol_semiannual": 0.18505124,
-      "vol_quarterly": 0.17360343,
-      "vol_monthly": 0.12596272,
-      "vol_weekly": 0.08126428
+      "vol_semiannual": 0.18513675,
+      "vol_quarterly": 0.17495862,
+      "vol_monthly": 0.1286124,
+      "vol_weekly": 0.07571757
     },
     {
       "symbol": "ZC=F",
@@ -345,10 +345,10 @@
         }
       ],
       "vol_annual": 0.21236325,
-      "vol_semiannual": 0.25222128,
-      "vol_quarterly": 0.25300679,
-      "vol_monthly": 0.22239839,
-      "vol_weekly": 0.1077822
+      "vol_semiannual": 0.25259935,
+      "vol_quarterly": 0.25329203,
+      "vol_monthly": 0.22603473,
+      "vol_weekly": 0.09743195
     },
     {
       "symbol": "ZW=F",
@@ -388,10 +388,10 @@
         }
       ],
       "vol_annual": 0.26430299,
-      "vol_semiannual": 0.31810666,
-      "vol_quarterly": 0.29166337,
-      "vol_monthly": 0.20246664,
-      "vol_weekly": 0.15533824
+      "vol_semiannual": 0.31792376,
+      "vol_quarterly": 0.29389025,
+      "vol_monthly": 0.20771617,
+      "vol_weekly": 0.17659117
     },
     {
       "symbol": "KC=F",
@@ -431,10 +431,10 @@
         }
       ],
       "vol_annual": 0.41244494,
-      "vol_semiannual": 0.46379543,
-      "vol_quarterly": 0.38785518,
-      "vol_monthly": 0.32781217,
-      "vol_weekly": 0.36082676
+      "vol_semiannual": 0.46491066,
+      "vol_quarterly": 0.37965866,
+      "vol_monthly": 0.33539524,
+      "vol_weekly": 0.2536979
     },
     {
       "symbol": "SB=F",
@@ -474,10 +474,10 @@
         }
       ],
       "vol_annual": 0.26338997,
-      "vol_semiannual": 0.30368016,
-      "vol_quarterly": 0.3351786,
-      "vol_monthly": 0.38979621,
-      "vol_weekly": 0.1380504
+      "vol_semiannual": 0.30455458,
+      "vol_quarterly": 0.33758669,
+      "vol_monthly": 0.39770468,
+      "vol_weekly": 0.13919411
     }
   ]
 }
