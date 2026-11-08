@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-08T13:12:36Z",
+  "generated_at_utc": "2026-11-08T18:21:57Z",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -353,16 +353,45 @@
     {
       "symbol": "ZW=F",
       "name": "Wheat",
-      "price": null,
-      "close_d1": null,
-      "change_pts": null,
-      "change_pct": null,
-      "daily_7d": [],
-      "vol_annual": null,
-      "vol_semiannual": null,
-      "vol_quarterly": null,
-      "vol_monthly": null,
-      "vol_weekly": null
+      "price": 591.25,
+      "close_d1": 599.25,
+      "change_pts": -8.0,
+      "change_pct": -0.01335002,
+      "daily_7d": [
+        {
+          "date": "2026-10-29",
+          "close": 603.75
+        },
+        {
+          "date": "2026-10-30",
+          "close": 603.5
+        },
+        {
+          "date": "2026-11-02",
+          "close": 606.5
+        },
+        {
+          "date": "2026-11-03",
+          "close": 599.75
+        },
+        {
+          "date": "2026-11-04",
+          "close": 598.5
+        },
+        {
+          "date": "2026-11-05",
+          "close": 599.25
+        },
+        {
+          "date": "2026-11-06",
+          "close": 591.25
+        }
+      ],
+      "vol_annual": 0.26363125,
+      "vol_semiannual": 0.30781732,
+      "vol_quarterly": 0.27988342,
+      "vol_monthly": 0.14438873,
+      "vol_weekly": 0.1260726
     },
     {
       "symbol": "KC=F",
